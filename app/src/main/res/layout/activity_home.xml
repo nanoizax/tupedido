@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.izax.devs.wrap.Home">
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycle_populares"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="10dp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/t_home" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycle_search"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/t_home" />
+
+    <ScrollView
+        android:id="@+id/scroll_home"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/t_home">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/background_light"
+            android:orientation="vertical">
+
+            <androidx.viewpager.widget.ViewPager
+                android:id="@+id/pager"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_marginBottom="10dp" />
+
+            <ImageView
+                android:id="@+id/img_descubre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/franjadescubretxt"
+                android:visibility="gone"/>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recycle_p"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="visible" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:paddingTop="5dp"
+                android:visibility="visible" />
+
+            <ImageView
+                android:id="@+id/img_populares"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/franjapopularestxt" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerview_id"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:visibility="visible" />
+
+            <ImageView
+                android:id="@+id/img_n_recomendados"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/franjanrtxt" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recicle_n_recomendados"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <ImageView
+                android:id="@+id/img_recomendados"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/franjarecomendaciones"
+                android:visibility="gone"/>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recicle_recomendados"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/t_home"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:background="@android:color/background_light"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/img_back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/backblack"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/img_menu"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/img_menu"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/menu"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/img_search"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/search"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/img_confi"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/txt_search"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="6dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:ems="10"
+            android:hint="Search"
+            android:inputType="textPersonName"
+            android:textColor="@android:color/black"
+            android:textColorHighlight="@android:color/background_light"
+            android:textColorHint="@color/colorAccent"
+            android:textColorLink="@android:color/background_light"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/img_search"
+            app:layout_constraintStart_toEndOf="@+id/img_back"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/img_logo"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/img_search"
+            app:layout_constraintStart_toEndOf="@+id/img_menu"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/autolavado" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/notificacion"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/img_search"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/img_confi"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/bono" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/c_menu"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="64dp"
+        android:background="@android:color/background_light"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/t_home">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/c_perfil"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:layout_marginBottom="8dp"
+                    android:visibility="visible">
+
+                    <ImageView
+                        android:id="@+id/img_perfil"
+                        android:layout_width="75dp"
+                        android:layout_height="75dp"
+                        android:layout_marginStart="32dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="8dp"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:srcCompat="@drawable/perfil" />
+
+                    <TextView
+                        android:id="@+id/lbl_nombre"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="16dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginEnd="16dp"
+                        android:layout_marginBottom="8dp"
+                        android:text="Leanro Pérez"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toEndOf="@+id/img_perfil"
+                        app:layout_constraintTop_toTopOf="parent" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/constraintLayout9"
+                    android:layout_width="match_parent"
+                    android:layout_height="90dp"
+                    android:layout_marginBottom="8dp"
+                    android:visibility="gone">
+
+                    <ImageView
+                        android:id="@+id/imageView8"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:visibility="gone"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toStartOf="@+id/imageView10"
+                        app:layout_constraintHorizontal_bias="0.6"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:srcCompat="@drawable/reservas" />
+
+                    <ImageView
+                        android:id="@+id/imageView9"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:visibility="gone"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toEndOf="@+id/imageView10"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:srcCompat="@drawable/reservas" />
+
+                    <ImageView
+                        android:id="@+id/imageView10"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toStartOf="@+id/imageView9"
+                        app:layout_constraintStart_toEndOf="@+id/imageView8"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:srcCompat="@drawable/ranking" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+                <ListView
+                    android:id="@+id/lista"
+                    android:layout_width="match_parent"
+                    android:layout_height="500dp"
+                    android:layout_marginStart="32dp"
+                    android:dividerHeight="5px"
+                    android:listSelector="@android:drawable/screen_background_dark_transparent" />
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/c_principal"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp">
+
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:id="@+id/c_login"
+                        android:layout_width="0dp"
+                        android:layout_height="40dp"
+                        android:layout_marginTop="8dp"
+                        android:visibility="visible"
+                        app:layout_constraintBottom_toTopOf="@+id/c_exit"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent">
+
+                        <ImageView
+                            android:id="@+id/imageView5"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="16dp"
+                            android:layout_marginBottom="16dp"
+                            app:layout_constraintBottom_toTopOf="@+id/img_exit"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent"
+                            app:srcCompat="@drawable/login" />
+
+                        <TextView
+                            android:id="@+id/lbl_login"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="8dp"
+                            android:layout_marginEnd="16dp"
+                            android:text="Iniciar Session"
+                            android:textColor="@android:color/darker_gray"
+                            android:textSize="18sp"
+                            android:textStyle="bold"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toEndOf="@+id/imageView5"
+                            app:layout_constraintTop_toTopOf="parent" />
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:id="@+id/c_exit"
+                        android:layout_width="0dp"
+                        android:layout_height="40dp"
+                        android:background="@color/design_default_color_primary"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.0"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/c_login">
+
+                        <ImageView
+                            android:id="@+id/img_exit"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="16dp"
+                            android:visibility="visible"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent"
+                            app:srcCompat="@drawable/exit" />
+
+                        <TextView
+                            android:id="@+id/lbl_salir"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="16dp"
+                            android:layout_marginEnd="16dp"
+                            android:text="Exit"
+                            android:textColor="@android:color/background_light"
+                            android:textSize="18sp"
+                            android:textStyle="bold"
+                            android:visibility="visible"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toEndOf="@+id/img_exit"
+                            app:layout_constraintTop_toTopOf="parent" />
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:id="@+id/c_recetas"
+                        android:layout_width="0dp"
+                        android:layout_height="40dp"
+                        android:background="@color/design_default_color_primary"
+                        android:visibility="gone"
+                        app:layout_constraintBottom_toTopOf="@+id/c_login"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent">
+
+                        <ImageView
+                            android:id="@+id/imageView4"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="16dp"
+                            android:paddingTop="3dp"
+                            android:paddingBottom="3dp"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent"
+                            app:srcCompat="@drawable/recetas" />
+
+                        <TextView
+                            android:id="@+id/lbl_recetas"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Recetas Medicas"
+                            android:textColor="@android:color/background_light"
+                            android:textSize="18sp"
+                            android:textStyle="bold"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toEndOf="@+id/imageView4"
+                            app:layout_constraintTop_toTopOf="parent" />
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+            </LinearLayout>
+        </ScrollView>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

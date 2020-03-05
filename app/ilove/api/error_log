@@ -1,0 +1,352 @@
+[13-Feb-2018 23:10:40 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Feb-2018 23:10:40 UTC] PHP Fatal error:  Call to undefined method Query::insertCoordenadas() in /home/izaxwolfappcom/public_html/apis/bailante/query_registrar.php on line 10
+[13-Feb-2018 23:29:39 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Feb-2018 23:33:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Feb-2018 23:38:42 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Feb-2018 01:38:52 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 00:35:49 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 00:35:51 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 00:36:15 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 00:36:30 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 00:39:50 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 00:40:56 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 00:42:20 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 00:45:00 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 01:17:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 01:17:26 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 01:23:05 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 01:23:44 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 01:23:46 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 01:23:48 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 01:23:55 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:00:05 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:01:33 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:01:53 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:01:56 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:01:57 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:02:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:04:48 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:04:57 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:06:11 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:06:15 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:07:27 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:07:30 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:07:31 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:07:31 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:07:32 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:07:32 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:07:32 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:07:32 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:07:32 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:07:33 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:07:33 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:07:33 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:09:02 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:29:11 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:31:57 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:32:02 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:32:02 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:32:02 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:32:05 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:32:06 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:32:06 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:32:06 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:33:39 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:34:06 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 02:44:20 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 11:56:09 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 12:04:54 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 12:38:05 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 12:38:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'lean@lean.com' for key 'email'' in /home/izaxwolfappcom/public_html/apis/bailante/query.php:101
+Stack trace:
+#0 /home/izaxwolfappcom/public_html/apis/bailante/query.php(101): PDOStatement->execute(Array)
+#1 /home/izaxwolfappcom/public_html/apis/bailante/query_registrar.php(16): Query::insertUsuarios('jdjdnd', 'shshdh', '59593', 'lean@lean.com', '1010', '0')
+#2 {main}
+  thrown in /home/izaxwolfappcom/public_html/apis/bailante/query.php on line 101
+[16-Feb-2018 12:43:01 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 12:43:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'lean@lean.com' for key 'email'' in /home/izaxwolfappcom/public_html/apis/bailante/query.php:101
+Stack trace:
+#0 /home/izaxwolfappcom/public_html/apis/bailante/query.php(101): PDOStatement->execute(Array)
+#1 /home/izaxwolfappcom/public_html/apis/bailante/query_registrar.php(16): Query::insertUsuarios('dsjsjjd', 'dddjdj', '8488248', 'lean@lean.com', '1010', '0')
+#2 {main}
+  thrown in /home/izaxwolfappcom/public_html/apis/bailante/query.php on line 101
+[16-Feb-2018 12:47:47 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 12:47:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'lean@lean.com' for key 'email'' in /home/izaxwolfappcom/public_html/apis/bailante/query.php:101
+Stack trace:
+#0 /home/izaxwolfappcom/public_html/apis/bailante/query.php(101): PDOStatement->execute(Array)
+#1 /home/izaxwolfappcom/public_html/apis/bailante/query_registrar.php(16): Query::insertUsuarios('xndkd', 'ddjdjdj', '383844', 'lean@lean.com', 'qpqp', '0')
+#2 {main}
+  thrown in /home/izaxwolfappcom/public_html/apis/bailante/query.php on line 101
+[16-Feb-2018 14:43:40 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 14:43:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'lean@lean.com' for key 'email'' in /home/izaxwolfappcom/public_html/apis/bailante/query.php:101
+Stack trace:
+#0 /home/izaxwolfappcom/public_html/apis/bailante/query.php(101): PDOStatement->execute(Array)
+#1 /home/izaxwolfappcom/public_html/apis/bailante/query_registrar.php(16): Query::insertUsuarios('fkdkd', 'ffjdjd', '82834', 'lean@lean.com', 'qpqp', '0')
+#2 {main}
+  thrown in /home/izaxwolfappcom/public_html/apis/bailante/query.php on line 101
+[16-Feb-2018 14:48:48 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 14:48:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'lean@lean.com' for key 'email'' in /home/izaxwolfappcom/public_html/apis/bailante/query.php:101
+Stack trace:
+#0 /home/izaxwolfappcom/public_html/apis/bailante/query.php(101): PDOStatement->execute(Array)
+#1 /home/izaxwolfappcom/public_html/apis/bailante/query_registrar.php(16): Query::insertUsuarios('dkdkd', 'edydh', '38383', 'lean@lean.com', 'qpqp', '0')
+#2 {main}
+  thrown in /home/izaxwolfappcom/public_html/apis/bailante/query.php on line 101
+[16-Feb-2018 14:53:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 14:53:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'lean@lean.com' for key 'email'' in /home/izaxwolfappcom/public_html/apis/bailante/query.php:101
+Stack trace:
+#0 /home/izaxwolfappcom/public_html/apis/bailante/query.php(101): PDOStatement->execute(Array)
+#1 /home/izaxwolfappcom/public_html/apis/bailante/query_registrar.php(16): Query::insertUsuarios('djdkdj', 'dhdjdjdjf', '1191929', 'lean@lean.com', 'qpqp', '0')
+#2 {main}
+  thrown in /home/izaxwolfappcom/public_html/apis/bailante/query.php on line 101
+[16-Feb-2018 14:56:43 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 14:56:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'lean@lean.com' for key 'email'' in /home/izaxwolfappcom/public_html/apis/bailante/query.php:101
+Stack trace:
+#0 /home/izaxwolfappcom/public_html/apis/bailante/query.php(101): PDOStatement->execute(Array)
+#1 /home/izaxwolfappcom/public_html/apis/bailante/query_registrar.php(16): Query::insertUsuarios('djdjjd', 'duddjjd', '1938383', 'lean@lean.com', 'qpqp', '0')
+#2 {main}
+  thrown in /home/izaxwolfappcom/public_html/apis/bailante/query.php on line 101
+[16-Feb-2018 15:37:12 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 15:46:03 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 15:52:11 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 15:54:56 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 15:56:32 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 16:04:16 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 16:10:11 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 16:11:35 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 16:11:40 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 16:36:28 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 17:09:49 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 18:33:59 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 18:41:43 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 18:49:27 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 18:50:12 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 19:02:35 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 19:03:17 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 19:03:41 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 19:50:48 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[17-Feb-2018 01:55:08 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[17-Feb-2018 20:31:32 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Feb-2018 16:38:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Feb-2018 16:38:12 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2018 14:41:38 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Apr-2018 18:48:01 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Apr-2018 18:48:08 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[23-Apr-2018 19:11:07 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/gvaldivieso/public_html/api/query.php on line 112
+[23-Apr-2018 19:11:35 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/gvaldivieso/public_html/api/query.php on line 112
+[23-Apr-2018 19:12:00 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/gvaldivieso/public_html/api/query.php on line 112
+[23-Apr-2018 19:26:47 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/gvaldivieso/public_html/api/query.php on line 112
+[23-Apr-2018 19:27:24 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/gvaldivieso/public_html/api/query.php on line 112
+[23-Apr-2018 19:28:04 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/gvaldivieso/public_html/api/query.php on line 112
+[23-Apr-2018 19:28:36 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/gvaldivieso/public_html/api/query.php on line 112
+[23-Apr-2018 19:28:54 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/gvaldivieso/public_html/api/query.php on line 112
+[23-Apr-2018 19:31:58 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/gvaldivieso/public_html/api/query.php on line 112
+[23-Apr-2018 19:33:56 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/gvaldivieso/public_html/api/query.php on line 112
+[23-Apr-2018 19:35:04 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/gvaldivieso/public_html/api/query.php on line 112
+[23-Apr-2018 19:35:31 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/gvaldivieso/public_html/api/query.php on line 112
+[23-Apr-2018 19:39:08 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/gvaldivieso/public_html/api/query.php on line 112
+[23-Apr-2018 19:39:51 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/gvaldivieso/public_html/api/query.php on line 112
+[03-May-2018 19:56:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usuario' cannot be null' in /home/gvaldivieso/public_html/api/query.php:92
+Stack trace:
+#0 /home/gvaldivieso/public_html/api/query.php(92): PDOStatement->execute(Array)
+#1 /home/gvaldivieso/public_html/api/query_comprar_producto.php(15): Query::insertCompra(NULL, NULL, 'PAY-6UL40406792...')
+#2 {main}
+  thrown in /home/gvaldivieso/public_html/api/query.php on line 92
+[03-May-2018 19:58:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usuario' cannot be null' in /home/gvaldivieso/public_html/api/query.php:92
+Stack trace:
+#0 /home/gvaldivieso/public_html/api/query.php(92): PDOStatement->execute(Array)
+#1 /home/gvaldivieso/public_html/api/query_comprar_producto.php(15): Query::insertCompra(NULL, NULL, 'PAY-1CA09900MY5...')
+#2 {main}
+  thrown in /home/gvaldivieso/public_html/api/query.php on line 92
+[03-May-2018 19:59:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usuario' cannot be null' in /home/gvaldivieso/public_html/api/query.php:92
+Stack trace:
+#0 /home/gvaldivieso/public_html/api/query.php(92): PDOStatement->execute(Array)
+#1 /home/gvaldivieso/public_html/api/query_comprar_producto.php(15): Query::insertCompra(NULL, NULL, 'PAY-6A6089000G8...')
+#2 {main}
+  thrown in /home/gvaldivieso/public_html/api/query.php on line 92
+[03-May-2018 20:02:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usuario' cannot be null' in /home/gvaldivieso/public_html/api/query.php:92
+Stack trace:
+#0 /home/gvaldivieso/public_html/api/query.php(92): PDOStatement->execute(Array)
+#1 /home/gvaldivieso/public_html/api/query_comprar_producto.php(15): Query::insertCompra(NULL, NULL, 'PAY-6VJ42222BX8...')
+#2 {main}
+  thrown in /home/gvaldivieso/public_html/api/query.php on line 92
+[03-May-2018 20:04:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usuario' cannot be null' in /home/gvaldivieso/public_html/api/query.php:92
+Stack trace:
+#0 /home/gvaldivieso/public_html/api/query.php(92): PDOStatement->execute(Array)
+#1 /home/gvaldivieso/public_html/api/query_comprar_producto.php(15): Query::insertCompra(NULL, NULL, 'PAY-71M05882K64...')
+#2 {main}
+  thrown in /home/gvaldivieso/public_html/api/query.php on line 92
+[04-May-2018 15:37:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usuario' cannot be null' in /home/gvaldivieso/public_html/api/query.php:126
+Stack trace:
+#0 /home/gvaldivieso/public_html/api/query.php(126): PDOStatement->execute(Array)
+#1 /home/gvaldivieso/public_html/api/query_comprar_producto.php(19): Query::insertCompra(NULL, 'https://global....', 'PAY-4EG15273MS9...', 'https://global....', 'https://global....', '100', 'https://encrypt...')
+#2 {main}
+  thrown in /home/gvaldivieso/public_html/api/query.php on line 126
+[04-May-2018 15:38:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usuario' cannot be null' in /home/gvaldivieso/public_html/api/query.php:126
+Stack trace:
+#0 /home/gvaldivieso/public_html/api/query.php(126): PDOStatement->execute(Array)
+#1 /home/gvaldivieso/public_html/api/query_comprar_producto.php(19): Query::insertCompra(NULL, 'http://goqualit...', 'PAY-9FH53933M92...', 'http://goqualit...', 'http://goqualit...', '25', 'https://i.ytimg...')
+#2 {main}
+  thrown in /home/gvaldivieso/public_html/api/query.php on line 126
+[04-May-2018 16:09:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usuario' cannot be null' in /home/gvaldivieso/public_html/api/query.php:149
+Stack trace:
+#0 /home/gvaldivieso/public_html/api/query.php(149): PDOStatement->execute(Array)
+#1 /home/gvaldivieso/public_html/api/query_comprar_producto.php(19): Query::insertCompra(NULL, '2', 'PAY-07675574GB9...', 'Reloj Nautia OR...', 'El reloj nautic...', '90', 'https://ssli.eb...')
+#2 {main}
+  thrown in /home/gvaldivieso/public_html/api/query.php on line 149
+[04-May-2018 16:19:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usuario' cannot be null' in /home/gvaldivieso/public_html/api/query.php:149
+Stack trace:
+#0 /home/gvaldivieso/public_html/api/query.php(149): PDOStatement->execute(Array)
+#1 /home/gvaldivieso/public_html/api/query_comprar_producto.php(19): Query::insertCompra(NULL, '1', 'PAY-8G3391155A3...', 'Nautica', 'Perfume nautica...', '120', 'https://2.stati...')
+#2 {main}
+  thrown in /home/gvaldivieso/public_html/api/query.php on line 149
+[04-May-2018 16:20:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usuario' cannot be null' in /home/gvaldivieso/public_html/api/query.php:149
+Stack trace:
+#0 /home/gvaldivieso/public_html/api/query.php(149): PDOStatement->execute(Array)
+#1 /home/gvaldivieso/public_html/api/query_comprar_producto.php(19): Query::insertCompra(NULL, '1', 'PAY-93E35145XX4...', 'Nautica', 'Perfume nautica...', '120', 'https://2.stati...')
+#2 {main}
+  thrown in /home/gvaldivieso/public_html/api/query.php on line 149
+[04-May-2018 16:22:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usuario' cannot be null' in /home/gvaldivieso/public_html/api/query.php:149
+Stack trace:
+#0 /home/gvaldivieso/public_html/api/query.php(149): PDOStatement->execute(Array)
+#1 /home/gvaldivieso/public_html/api/query_comprar_producto.php(19): Query::insertCompra(NULL, '1', 'PAY-0ML14575PX4...', 'Nautica', 'Perfume nautica...', '120', 'https://2.stati...')
+#2 {main}
+  thrown in /home/gvaldivieso/public_html/api/query.php on line 149
+[04-May-2018 16:26:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usuario' cannot be null' in /home/gvaldivieso/public_html/api/query.php:149
+Stack trace:
+#0 /home/gvaldivieso/public_html/api/query.php(149): PDOStatement->execute(Array)
+#1 /home/gvaldivieso/public_html/api/query_comprar_producto.php(19): Query::insertCompra(NULL, '1', 'PAY-5T7570703E0...', 'Nautica', 'Perfume nautica...', '120', 'https://2.stati...')
+#2 {main}
+  thrown in /home/gvaldivieso/public_html/api/query.php on line 149
+[04-May-2018 16:51:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usuario' cannot be null' in /home/gvaldivieso/public_html/api/query.php:149
+Stack trace:
+#0 /home/gvaldivieso/public_html/api/query.php(149): PDOStatement->execute(Array)
+#1 /home/gvaldivieso/public_html/api/query_comprar_producto.php(19): Query::insertCompra(NULL, '3', 'PAY-6P0286008H9...', 'Zapatos la cost...', 'los mejores zap...', '50', 'http://dhb3yazw...')
+#2 {main}
+  thrown in /home/gvaldivieso/public_html/api/query.php on line 149
+[04-May-2018 16:53:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usuario' cannot be null' in /home/gvaldivieso/public_html/api/query.php:149
+Stack trace:
+#0 /home/gvaldivieso/public_html/api/query.php(149): PDOStatement->execute(Array)
+#1 /home/gvaldivieso/public_html/api/query_comprar_producto.php(19): Query::insertCompra(NULL, '3', 'PAY-68B98420LV8...', 'Zapatos la cost...', 'los mejores zap...', '50', 'http://dhb3yazw...')
+#2 {main}
+  thrown in /home/gvaldivieso/public_html/api/query.php on line 149
+[04-May-2018 16:55:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usuario' cannot be null' in /home/gvaldivieso/public_html/api/query.php:149
+Stack trace:
+#0 /home/gvaldivieso/public_html/api/query.php(149): PDOStatement->execute(Array)
+#1 /home/gvaldivieso/public_html/api/query_comprar_producto.php(19): Query::insertCompra(NULL, '3', 'PAY-04U694652Y7...', 'Zapatos la cost...', 'los mejores zap...', '50', 'http://dhb3yazw...')
+#2 {main}
+  thrown in /home/gvaldivieso/public_html/api/query.php on line 149
+[07-Jun-2019 16:38:28 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Jun-2019 16:38:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre' in 'field list'' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:846
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(846): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios('g', 'j', 'j', 'j', 'k')
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 846
+[07-Jun-2019 16:39:02 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Jun-2019 16:39:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre' in 'field list'' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:846
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(846): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios('r', 'j', 'j', 'j', 'ji')
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 846
+[07-Jun-2019 16:43:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre' in 'field list'' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:846
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(846): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios(NULL, NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 846
+[07-Jun-2019 16:44:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre' in 'field list'' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:846
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(846): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios(NULL, NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 846
+[07-Jun-2019 16:44:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre' in 'field list'' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:846
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(846): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios(NULL, NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 846
+[07-Jun-2019 16:47:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre' in 'field list'' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:846
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(846): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios(NULL, NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 846
+[07-Jun-2019 16:47:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre' in 'field list'' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:846
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(846): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios(NULL, NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 846
+[07-Jun-2019 16:47:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre' in 'field list'' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:846
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(846): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios(NULL, NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 846
+[07-Jun-2019 16:49:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre' in 'field list'' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:846
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(846): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios(NULL, NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 846
+[07-Jun-2019 16:49:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre' in 'field list'' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:846
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(846): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios(NULL, NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 846
+[07-Jun-2019 16:49:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nombres' cannot be null' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:846
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(846): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios(NULL, NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 846
+[07-Jun-2019 16:49:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nombres' cannot be null' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:846
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(846): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios(NULL, NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 846
+[07-Jun-2019 16:51:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Jun-2019 17:15:14 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Jun-2019 17:15:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:846
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(846): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios('a', 'a', 'a', 'a', 'a')
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 846
+[07-Jun-2019 17:16:41 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Jun-2019 17:16:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:55
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(55): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios('ttt', 't', 'y', 't', 't')
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 55
+[07-Jun-2019 17:16:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nombres' cannot be null' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:55
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(55): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios(NULL, NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 55
+[07-Jun-2019 17:17:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nombres' cannot be null' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:55
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(55): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios(NULL, NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 55
+[19-Jun-2019 02:23:22 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Jun-2019 02:23:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:55
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(55): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios('luis daniel ram...', 'luisdramirezm7@...', '04268972264', '12345luisd', 'calle ruiz pine...')
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 55
+[19-Jun-2019 02:25:59 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Jun-2019 02:25:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php:55
+Stack trace:
+#0 /home/devsizax/public_html/proyectos/agropecuaria/api/query.php(55): PDOStatement->execute(Array)
+#1 /home/devsizax/public_html/proyectos/agropecuaria/api/query_registrar.php(17): Query::insertUsuarios('luis ramirez', 'luisdramirezm7@...', '04268972264', '12345luisd', 'calle ruiz pine...')
+#2 {main}
+  thrown in /home/devsizax/public_html/proyectos/agropecuaria/api/query.php on line 55

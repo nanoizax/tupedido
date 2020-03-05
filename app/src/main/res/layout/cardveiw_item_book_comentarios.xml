@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cardview="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cardview_id"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="10dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginBottom="5dp"
+    android:clickable="true"
+    android:foreground="?android:attr/selectableItemBackground"
+    cardview:cardCornerRadius="4dp">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/book_img_id"
+            android:layout_width="150dp"
+            android:layout_height="175dp"
+            android:background="@drawable/perfil"
+            android:padding="3dp"
+            android:scaleType="centerCrop"
+            cardview:layout_constraintStart_toStartOf="parent"
+            cardview:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/book_title_id"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:gravity="center"
+            android:text="Titulo"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
+            android:textStyle="bold|italic"
+            cardview:layout_constraintEnd_toEndOf="parent"
+            cardview:layout_constraintStart_toEndOf="@+id/book_img_id"
+            cardview:layout_constraintTop_toTopOf="parent" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:visibility="gone"
+            cardview:backgroundTint="@color/design_default_color_primary"
+            cardview:fabSize="mini"
+            cardview:layout_constraintBottom_toBottomOf="parent"
+            cardview:layout_constraintEnd_toEndOf="parent"
+            cardview:srcCompat="@android:drawable/ic_input_add" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Precio:"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:visibility="gone"
+            tools:layout_editor_absoluteX="182dp"
+            tools:layout_editor_absoluteY="112dp" />
+
+        <TextView
+            android:id="@+id/lbl_precio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:text="000"
+            android:textColor="@android:color/black"
+            android:textSize="24sp"
+            android:visibility="gone"
+            cardview:layout_constraintBottom_toTopOf="@+id/book_title_id"
+            cardview:layout_constraintStart_toEndOf="@+id/textView3"
+            cardview:layout_constraintTop_toBottomOf="@+id/book_img_id" />
+
+        <TextView
+            android:id="@+id/lbl_descripcion"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="10dp"
+            android:text="Lorem imsup"
+            android:visibility="gone"
+            cardview:layout_constraintBottom_toTopOf="@+id/lbl_precio"
+            cardview:layout_constraintEnd_toEndOf="parent"
+            cardview:layout_constraintStart_toEndOf="@+id/book_img_id"
+            cardview:layout_constraintTop_toBottomOf="@+id/book_title_id" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:text="Items:"
+            android:textStyle="bold"
+            android:visibility="gone"
+            cardview:layout_constraintBottom_toBottomOf="parent"
+            cardview:layout_constraintEnd_toStartOf="@+id/lbl_cantidad" />
+
+        <TextView
+            android:id="@+id/lbl_cantidad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:text="00"
+            android:visibility="gone"
+            cardview:layout_constraintBottom_toBottomOf="parent"
+            cardview:layout_constraintEnd_toEndOf="parent" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="U$D"
+            android:textColor="@android:color/black"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:visibility="gone"
+            cardview:layout_constraintStart_toStartOf="parent"
+            cardview:layout_constraintTop_toBottomOf="@+id/book_img_id" />
+
+        <TextView
+            android:id="@+id/lbl_comentario"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            cardview:layout_constraintBottom_toBottomOf="parent"
+            cardview:layout_constraintEnd_toEndOf="parent"
+            cardview:layout_constraintStart_toEndOf="@+id/book_img_id"
+            cardview:layout_constraintTop_toBottomOf="@+id/book_title_id" />
+
+    </android.support.constraint.ConstraintLayout>
+
+</androidx.cardview.widget.widget.CardView>

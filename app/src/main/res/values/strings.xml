@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Click Clean</string>
+
+    <string name="facebook_app_id">861288707590714</string>
+    <string name="fb_login_protocol_scheme">fb861288707590714</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

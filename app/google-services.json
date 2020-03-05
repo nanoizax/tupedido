@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66632605840",
+    "firebase_url": "https://agropecuaria-fcab2.firebaseio.com",
+    "project_id": "agropecuaria-fcab2",
+    "storage_bucket": "agropecuaria-fcab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66632605840:android:362e8c66a62ad83b",
+        "android_client_info": {
+          "package_name": "com.izax.devs.wrap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66632605840-s9kmflcaq13udspf1pbl0kd0702sdl3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk9-e_lzezSPqHetSFLb1x9GwjF7N_C7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66632605840-s9kmflcaq13udspf1pbl0kd0702sdl3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
